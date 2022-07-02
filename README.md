@@ -1,4 +1,4 @@
-# ربات Mega
+
 A Simple Telegram Bot written in Python using Pyrogram Library to Do [Somethings](https://github.com/Itz-fork/Mega.nz-Bot#features) Related to [Mega.nz](https://mega.nz/) Cloud Storage.
 
 # Features
@@ -30,7 +30,7 @@ Deploy your own Bot ♥️! **Star 🌟 Fork 🍴 and Deploy**
 
 ### With Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/Mega-Deployer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lahirubandara123/Telegram-to-Mega---BiDirection)
 
 > Notice ⚠️:
 > Please read install notes in [Mega.nz-Deployer](https://github.com/Itz-fork/Mega-Deployer) on "How to deploy this bot on Heroku"
